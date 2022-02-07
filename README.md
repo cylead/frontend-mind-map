@@ -21,3 +21,6 @@
 	* react-typescript
 	* reacr-source-code
 * video
+	* 视音频基础
+	* 视频播放器分析
+* chrome 插件
