@@ -1,6 +1,6 @@
 ## frontend-mind-map
 
-前端思维导图整理，包括 xmind 源文件和 png 图片。
+前端思维导图整理，包括 xmind 源文件和 png 图片，图片不保证更新。
 
 ### 目录
 * 浏览器
@@ -9,6 +9,7 @@
 	* https
 	* canvas
 * js
+	* js
 	* ES6
 * css
 * typescript
@@ -24,3 +25,4 @@
 	* 视音频基础
 	* 视频播放器分析
 * chrome 插件
+* miniProgram
